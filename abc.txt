@@ -1,0 +1,11 @@
+API_ID=32044830
+API_HASH=80eab2a820811644e48cafe7fae3ffb0
+PHONE_NUMBER=+919013852178
+
+SESSION_NAME=telegram_session
+
+# DB_HOST=localhost
+# DB_PORT=5432
+# DB_NAME=telegram_db
+# DB_USER=postgres
+# DB_PASSWORD=your_password
